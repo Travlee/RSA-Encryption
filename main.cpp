@@ -1,7 +1,7 @@
 // Travis Lee Presnell - Feb 2018
 //	LRSA - RSA Encryption
 //	Usage:
-//		-Generate Key files: 	lrsa -gen
+//		-Generate Key files: 	lrsa generate
 //		-Encrypt Input: 	lrsa encrypt <input>
 //		-Decrypt Input:		lrsa decrypt <input>
 
